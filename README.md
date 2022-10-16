@@ -1,2 +1,2 @@
 # yzz
-This is a private repository
+This is a public repository
